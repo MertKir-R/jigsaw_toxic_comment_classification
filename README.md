@@ -95,9 +95,4 @@ All tuning experiments were conducted with controlled settings to ensure fair co
 - NumPy
 - Pandas
 
----
 
-## Notes
-
-This project focuses on **clean implementation, reproducible experimentation, and proper evaluation practices** rather than architectural novelty.  
-It is intended to demonstrate applied NLP and transformer-based modeling best practices.
